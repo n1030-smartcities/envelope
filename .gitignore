@@ -15,8 +15,8 @@ venv/
 # Banco de dados — versionado intencionalmente
 # params.db
 
-# Arquivos XLSX de dados brutos (grandes, colocar em data/ se quiser versionar)
-*.xlsx
+# Arquivos XLSX — versionados intencionalmente
+# *.xlsx
 
 # Arquivos gerados / temporários
 *.html
