@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# Virtualenv
+venv/
+.env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Banco de dados (gerado pelo db_builder.py)
+params.db
+
+# Arquivos XLSX de dados brutos (grandes, colocar em data/ se quiser versionar)
+*.xlsx
+
+# Arquivos gerados / temporários
+*.html
+*.zip
+files.zip
+preview_3d.html
+
+# Arquivos de zona WSL (Zone.Identifier)
+*:Zone.Identifier
+
+# Versões arquivadas
+morto/
+morto2/
+morto3/
+morto4/
+
+# Código legado não utilizado
+calculo_v2.py
+cidade_manager.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

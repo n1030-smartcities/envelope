@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "lote",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::31982"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "CDLOTE": 212706.0,
+        "INSCIMOB": "6640070106",
+        "NMVIA": "R. LEONARDO PIANOWSKI",
+        "NUM_PRED": "00309",
+        "NM_ZONA": "ZONA RESIDENCIAL 3",
+        "SG_ZONA": "ZR3",
+        "LEGISLACAO": "LEI Nº 15511 / 2019",
+        "NM_REGIONA": "REGIONAL PINHEIRINHO"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [ 670823.242180661996827, 7175846.850903692655265 ],
+              [ 670840.509770149132237, 7175881.552263755351305 ],
+              [ 670850.393194373813458, 7175876.392287301830947 ],
+              [ 670833.148370983893983, 7175841.58545845746994 ],
+              [ 670823.242180661996827, 7175846.850903692655265 ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
