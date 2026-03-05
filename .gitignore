@@ -37,6 +37,9 @@ morto4/
 calculo_v2.py
 cidade_manager.py
 
+# Notas de sessão
+SESSAO_*.md
+
 # IDE
 .vscode/
 .idea/
